@@ -1,2 +1,2 @@
 # Kerja-Kolaborasi
-Belajar Kerja Kolaborasi Dicoding camp
+Belajar github di dicoding sangat menyenangkan
